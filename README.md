@@ -27,8 +27,8 @@ Prompt 3 highlights
 
 Prompt 4 highlights
 - It was possible to prompt MAI to adopt J tacit style
-- The code works, but for example an unnecessary rank 1 ("1) conjunction was applied (I'd need more time or a more experienced J developper) to assess, not sure the tacit-style is really applied as it should)
-- Capability of reflexion on the process, but incorrect explanations, in particular about the unbox verb (>)
+- The code works, but for example an unnecessary rank 1 ("1) conjunction was applied
+- Capability of reflexion on the process, but incorrect/confusing explanations, in particular about the unbox verb (>)
 - If pointed correctly to jconsole, Github Copilot would use it to test the code, but I am currently experiencing installation issues, so it created the code statically.
 
 
