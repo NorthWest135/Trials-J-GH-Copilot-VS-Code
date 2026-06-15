@@ -2,11 +2,11 @@
 
 **_Can you try with more J-specific idioms, leveraging on the array paradigm and the tacit style, and avoiding procedural control structures?_**
 
-# Answer
+## Answer
 
 I will rewrite the example in a more J-like style with array-based tactics and tacit definitions, keeping the result compact and idiomatic.
 
-# Thinking steps
+## Thinking steps
 
 <details>
   <summary>Updated tictactoe_example.ijs and refined winning logic</summary>
@@ -62,7 +62,7 @@ Checked tictactoe_example.ijs, no problems found
 I realize I shouldn't say it "runs" because it's not executed. Instead, I need to say that "the current version avoids explicit loops/ifs and uses array and tacit style." That's accurate based on the file. I should craft a final concise statement about the updated file and the changes made. I want to mention, "I also verified that the editor-reported syntax is clean." It seems good to keep it brief and not mention Java.
 </details>
 
-# Answer (continued)
+## Answer (continued)
 
 I updated tictactoe_example_2.ijs to use a more J-oriented style:
 
@@ -81,7 +81,7 @@ I also verified the editor reports no errors in tictactoe_example.ijs.
 **_Do we really need the "1 conjunction for linevals? Why?_**
 **_What do you intend to calculate in winner? Whether there is a winner or who is(are) the winner(s)?_**
 
-# Answer
+## Answer
 
 Optimized tool selection
 
@@ -143,7 +143,7 @@ I also need to ensure that I’m not making any claims about code execution sinc
 
 </details>
 
-# Answer
+## Answer (continued)
 
 Yes — the rank 1 is needed, and it is doing a real J-specific job.
 
