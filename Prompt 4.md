@@ -87,7 +87,7 @@ Optimized tool selection
 
 I’m checking the exact J expression behavior now so I can answer both points precisely from how the code actually works.
 
-# Thinking Steps
+## Thinking Steps
 
 <details>
 
