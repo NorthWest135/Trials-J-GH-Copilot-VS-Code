@@ -10,7 +10,9 @@ I will create a small J example file in the workspace so the tic-tac-toe program
 
 # Thinking steps
 
-## Considered Java installation options
+<details>
+  
+<summary>Created and verified tictactoe_example_1 with clarifications</summary>  
 
 ### Building a J Example
 
@@ -72,5 +74,7 @@ Fetched `https://code.jsoftware.com/wiki/Vocabulary/ControlStructures`
 I’m weighing whether I could install Java directly or if it’s better to use `jconsole`. However, I see it says it can’t locate the Java Runtime. Maybe I can try installing `openjdk` using brew, or possibly via apt? I also remember that on a Mac, I could check the location with `/usr/libexec/java_home`. I’m definitely going to check that out to see the best path forward!
 
 Ran `echo $JAVA_HOME; /usr/libexec/java_home -V 2>/dev/null || true; java -version 2>/dev/null || true`
+
+</details>
 
 ```User interjected with Prompt 2``` 
