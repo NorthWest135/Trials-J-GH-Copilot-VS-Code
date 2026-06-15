@@ -16,7 +16,9 @@ I did not copy a ready-made J tic-tac-toe example from the web. The snippet was 
 
 # Prompt
 
-**_A bit earlier you tried to access the java runtime engine, this is a very common confusion between J and Java. Did my prompt hint help you resolve the confusion? And what specifically caused you to look for java run time engine, although it was not relevant?_**
+**_A bit earlier you tried to access the java runtime engine, this is a very common confusion between J and Java.
+
+Did my prompt hint help you resolve the confusion? And what specifically caused you to look for java run time engine, although it was not relevant?_**
 
 ## Answers
 
