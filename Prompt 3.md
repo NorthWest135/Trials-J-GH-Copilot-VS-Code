@@ -1,12 +1,12 @@
 # Prompt
 
-**__Cool - now a few questions for me to understand how you produced the result.__**
+**_Cool - now a few questions for me to understand how you produced the result._**
 
-**__1. Have you been specifically trained for coding with J (not Java)?__**\
-**__2. Did you use the documentation on code.jsoftware.com/wiki to search and combine the commands to apply?__**\
-**__3. Did you use examples of J code on the net to build this one?__**
+**_1. Have you been specifically trained for coding with J (not Java)?_**\
+**_2. Did you use the documentation on code.jsoftware.com/wiki to search and combine the commands to apply?_**\
+**_3. Did you use examples of J code on the net to build this one?_**
 
-# Answers
+## Answers
 
 Yes — I was trained to work with J code and J syntax, not Java. The result was built from general programming knowledge and the J language patterns I know, rather than from any Java-specific logic.
 
@@ -16,9 +16,9 @@ I did not copy a ready-made J tic-tac-toe example from the web. The snippet was 
 
 # Prompt
 
-**__A bit earlier you tried to access the java runtime engine, this is a very common confusion between J and Java. Did my prompt hint help you resolve the confusion? And what specifically caused you to look for java run time engine, although it was not relevant?__**
+**_A bit earlier you tried to access the java runtime engine, this is a very common confusion between J and Java. Did my prompt hint help you resolve the confusion? And what specifically caused you to look for java run time engine, although it was not relevant?_**
 
-# Answers
+## Answers
 
 Yes — the prompt did help, because it made the distinction explicit: the task was about J, not Java, so I corrected course and focused on the J runtime and example script instead of the Java launcher path.
 
