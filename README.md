@@ -25,7 +25,7 @@ Prompt 3 highlights
 - Github Copilot can be used for meta discussion (how was it trained, did it use the J wiki...)
 - But at least one answer is untrue - MAI claims not having used the J wiki whilst the thinking steps of Prompt 2 shows the opposite; very likely it was meaning that it was leveraging on it's previous own training _rather than_ J wiki. 
 
-Prompt 4
+Prompt 4 highlights
 - It was possible to prompt MAI to adopt J tacit style
 - The code works, but for example an unnecessary rank 1 ("1) conjunction was applied (I'd need more time or a more experienced J developper) to assess, not sure the tacit-style is really applied as it should)
 - Capability of reflexion on the process, but incorrect explanations, in particular about the unbox verb (>)
