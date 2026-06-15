@@ -1,14 +1,14 @@
 # Prompt
 
-**__Build an example of the tic-tac-toe game in J programming language (J syntax is described on code.jsoftware.com).__**
+**_Build an example of the tic-tac-toe game in J programming language (J syntax is described on code.jsoftware.com)._**
 
-# Answer
+## Answer
 
 * Optimized tool selection
 
 I will create a small J example file in the workspace so the tic-tac-toe program is ready to run.
 
-# Thinking steps
+## Thinking steps
 
 <details>
   
@@ -77,4 +77,4 @@ Ran `echo $JAVA_HOME; /usr/libexec/java_home -V 2>/dev/null || true; java -versi
 
 </details>
 
-```User interjected with Prompt 2``` 
+##User interjected with Prompt 2
