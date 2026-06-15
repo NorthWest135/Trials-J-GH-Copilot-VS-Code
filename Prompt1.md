@@ -77,4 +77,4 @@ Ran `echo $JAVA_HOME; /usr/libexec/java_home -V 2>/dev/null || true; java -versi
 
 </details>
 
-##User interjected with Prompt 2
+## User interjected with Prompt 2
