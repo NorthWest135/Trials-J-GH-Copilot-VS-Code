@@ -2,8 +2,8 @@
 
 **__Cool - now a few questions for me to understand how you produced the result.__**
 
-**__1. Have you been specifically trained for coding with J (not Java)?__**
-**__2. Did you use the documentation on code.jsoftware.com/wiki to search and combine the commands to apply?__**
+**__1. Have you been specifically trained for coding with J (not Java)?__**\
+**__2. Did you use the documentation on code.jsoftware.com/wiki to search and combine the commands to apply?__**\
 **__3. Did you use examples of J code on the net to build this one?__**
 
 # Answers
