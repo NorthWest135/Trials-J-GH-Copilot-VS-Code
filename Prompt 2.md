@@ -1,12 +1,12 @@
 # Prompt
 
-**__Why are you searching for java runtime? J has nothing to do with Java.__**
+**_Why are you searching for java runtime? J has nothing to do with Java._**
 
-# Answer
+## Answer
 
 The previous probe was misleading because the local launcher is not the real runtime. I’m checking the bundled J binary directly so I can avoid that path and give you a correct example.
 
-# Thinking Steps
+## Thinking Steps
 
 <details>
 <summary>Created and verified `tictactoe_example_1.ijs` with clarifications</summary>
@@ -42,7 +42,7 @@ I need to ensure the final version uses headings, which could be simple like "Do
 
 </details>
 
-# Answer (cont.)
+## Answer (continued)
 
 Done — the J example has been added at tictactoe_example_1.ijs.
 
