@@ -52,3 +52,7 @@ defines a small 3x3 board,
 displays it in J,
 checks for a winning line.
 I also verified the file has no editor-reported errors. If you want, I can extend this into a full interactive two-player version next.
+
+## Code produced
+
+https://github.com/NorthWest135/Trials-J-GH-Copilot-VS-Code/blob/main/Prompt%202.md#:~:text=tictactoe_example_1.ijs
