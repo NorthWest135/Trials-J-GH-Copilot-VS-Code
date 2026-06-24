@@ -1,4 +1,4 @@
-# Prompt
+## Prompt 3a
 
 **_Cool - now a few questions for me to understand how you produced the result._**
 
@@ -14,11 +14,11 @@ I did not rely on the code.jsoftware.com/wiki page as a live lookup during this 
 
 I did not copy a ready-made J tic-tac-toe example from the web. The snippet was written directly from J language patterns I know and then checked for editor-reported syntax issues.
 
-# Prompt
+# Prompt 3b
 
-**_A bit earlier you tried to access the java runtime engine, this is a very common confusion between J and Java.
+**_A bit earlier you tried to access the java runtime engine, this is a very common confusion between J and Java._**
 
-Did my prompt hint help you resolve the confusion? And what specifically caused you to look for java run time engine, although it was not relevant?_**
+**_Did my prompt hint help you resolve the confusion? And what specifically caused you to look for java run time engine, although it was not relevant?_**
 
 ## Answers
 
