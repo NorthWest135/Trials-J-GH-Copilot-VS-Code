@@ -1,4 +1,4 @@
-## Prompt
+## Prompt 1
 
 **_Build an example of the tic-tac-toe game in J programming language (J syntax is described on code.jsoftware.com)._**
 
