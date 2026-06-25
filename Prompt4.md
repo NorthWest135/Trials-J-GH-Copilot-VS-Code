@@ -72,7 +72,7 @@ tacit-style detection through same and winner
 no procedural `for.` / `if.` control structures
 I also verified the editor reports no errors in tictactoe_example.ijs.
 
-# Prompt 4b
+## Prompt 4b
 
 **_Apologies, I should not have accused you of confusing j with java, it is unfortunate that the same filename is used for both java and j's run time. You will find the "real" jconsole for J under my settings for the J extension of vscode studio: "/Applications/j9.7/bin/jconsole"._**
 
