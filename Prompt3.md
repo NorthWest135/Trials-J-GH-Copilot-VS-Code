@@ -14,7 +14,7 @@ I did not rely on the code.jsoftware.com/wiki page as a live lookup during this 
 
 I did not copy a ready-made J tic-tac-toe example from the web. The snippet was written directly from J language patterns I know and then checked for editor-reported syntax issues.
 
-# Prompt 3b
+## Prompt 3b
 
 **_A bit earlier you tried to access the java runtime engine, this is a very common confusion between J and Java._**
 
